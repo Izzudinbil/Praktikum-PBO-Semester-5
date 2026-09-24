@@ -1,0 +1,43 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Apache NetBeans specific
+**/project/nbproject/private/
+**/project/nbproject/Makefile-*.mk
+**/project/nbproject/Package-*.bash
+**/project/build/
+**/project/dist/
+**/project/nbbuild/
+**/project/nbdist/
+
+# Build Tools & Other IDEs
+**/project/target/
+.gradle/
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+/modul-02-intro/project/modul-02-intro/target/
